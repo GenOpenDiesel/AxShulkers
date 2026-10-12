@@ -1,4 +1,5 @@
 name: AxShulkers
+author: genallthebest
 version: '${project.version}'
 main: com.artillexstudios.axshulkers.AxShulkers
 api-version: '1.13'
